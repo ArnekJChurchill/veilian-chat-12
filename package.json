@@ -1,0 +1,15 @@
+{
+  "name": "veilian-chat-12",
+  "version": "1.0.0",
+  "description": "Veilian Chat 12 - Pusher-powered chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "pusher": "^5.0.0"
+  }
+}
